@@ -144,5 +144,15 @@ o	Profit Category (Profit / Loss)
 
 **Dashboard**
 
-<img width="1916" height="1040" alt="Dashboard Nassau Candy Distributor" src="https://github.com/user-attachments/assets/3cff152f-9351-416b-9e17-42cbc9a001b6" />
+<img width="1919" height="1028" alt="Dashboard APL Logistics" src="https://github.com/user-attachments/assets/69b08afe-580d-485c-bd88-0b7dedf22349" />
+
+**Conclusion**
+
+This study provides a comprehensive analysis of delivery performance within APL Logistics, highlighting key challenges related to shipment delays and operational inefficiencies. The findings indicate that delivery delays are frequent and widespread across shipping modes, regions, and product categories, reflecting systemic issues in logistics planning and execution. Although most delays are small in duration, their high occurrence significantly impacts overall performance and customer satisfaction.
+
+The analysis also demonstrates that on-time deliveries contribute to better profitability, emphasizing the business importance of improving delivery reliability. Through the use of data-driven insights and interactive visualizations, this study identifies critical areas for improvement and supports informed decision-making.
+
+By adopting a proactive and predictive approach to logistics management, APL Logistics can enhance its ability to identify high-risk shipments in advance, optimize resource allocation, and reduce operational costs. Overall, the implementation of these strategies will lead to improved delivery efficiency, stronger customer trust, and a more resilient and competitive supply chain system.
+
+
 
